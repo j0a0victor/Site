@@ -12,7 +12,7 @@ window.onscroll = () => {
 }
 
 var typed = new Typed(".auto-type", {
-    strings: ['Desenvolvedor Web', 'Desenvolvedor Web'],
+    strings: ['Desenvolvedor', 'Desenvolvedor'],
     typeSpeed: 50,
     backSpeed: 100,
     loop: true
